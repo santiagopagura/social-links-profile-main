@@ -27,9 +27,15 @@ Users should be able to:
 
 ### Screenshot
 
+Screenshot 375px
+
 ![](./design/screenshot/screenshot375.png)
 
+Screenshot 1440px
+
 ![](./design/screenshot/screenshot1440.jpg)
+
+Screenshot active
 
 ![](./design/screenshot/screenshotactive.jpg)
 
